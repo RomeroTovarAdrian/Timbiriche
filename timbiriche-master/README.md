@@ -24,5 +24,5 @@ Many technologies were used in this project:
 - [Font Awesome](http://fontawesome.io/)
 
 ## Authors
-* Fernando Gómez <gomezhyuuga>
-* Ariel Ortiz (template server)
+* Ramirez Perez Issac Ariel
+* Romero Tovar Adrian
